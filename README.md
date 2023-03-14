@@ -1,3 +1,4 @@
+![alt text](https://github.com/3dvolt/upSOL/blob/main/img/logo.png)
 # upSOL Solana NFT automation
 ## Simple API layer to send NFT as loyalty program for ecommerce
 
@@ -100,7 +101,7 @@ response example
 
 ## Flow
 
-![alt text]()![alt text](https://github.com/3dvolt/upSOL/blob/main/img/API%20flow%202.jpg)
+![alt text](https://github.com/3dvolt/upSOL/blob/main/img/API%20flow%201.jpg)
 
 ## Using WebAPP
 
